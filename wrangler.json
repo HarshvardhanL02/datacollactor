@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "datacollactor",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "d60a92e9-425b-4fd0-9933-f834fcfaaa28",
+      "database_name": "D1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
